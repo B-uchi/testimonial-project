@@ -16,6 +16,9 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+## Preview Link
+[Click Here](https://b-uchi.github.io/testimonial-project/)
+
 ### Screenshot
 
 ![Desktop screenshot](./screenshot.png)
